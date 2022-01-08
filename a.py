@@ -3,7 +3,7 @@ import time
 import threading
 import random
 
-URL1 = 'https://www.amad.org.br/'
+URL1 = 'https://portaldmi.forumeiros.com/'
 
 def trouble():
     try:
